@@ -8,9 +8,9 @@ On va se présenter en bonne et due forme. Pour cela, on va créer un fichier ma
 
 ## Étape 1 - Créer un dossier
 
-- Tu peux ouvrir un terminal et te déplacer à l'intérieur de tes dossiers à l'aide de la commande `cd` (place toi dans le dossier S00 créé en cours ce matin)
+- Tu peux ouvrir un terminal et te déplacer à l'intérieur de tes dossiers à l'aide de la commande `cd`, place toi dans le dossier S00 créé en cours ce matin.
 - Si tu veux voir le contenu du dossier dans lequel tu te trouves, tu peux utiliser `ls`
-- Lorsque tu es à l'endroit qui t'intéresse, tu peux créer un **nouveau dossier** pour le challenge du jour. Pour cela, tu auras besoin de la commande `mkdir`
+- Créé un **nouveau dossier** pour le challenge du jour. Pour cela, tu auras besoin de la commande `mkdir`
 
 Pour t'aider, n'hésite pas à relire la fiche récap correspondante
 - https://kourou.oclock.io/ressources/fiche-recap/maitriser-le-terminal/
